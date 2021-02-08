@@ -1,2 +1,0 @@
-D:\info\c++\Lab1\Lab1work\Debug\Lab1work.exe
-D:\info\c++\Lab1\Lab1work\Debug\Lab1work.pdb
