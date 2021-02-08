@@ -1,0 +1,2 @@
+D:\info\c++\MergeKSortedArrrays\Debug\MergeKSortedArrrays.exe
+D:\info\c++\MergeKSortedArrrays\Debug\MergeKSortedArrrays.pdb
