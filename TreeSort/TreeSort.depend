@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1602401608 source:d:\info\c++\treesort\treesort\main.cpp
+	<iostream>
+	<cstdlib>
+	"Profiler.h"
+
+1602368967 d:\info\c++\treesort\treesort\profiler.h
+	<Windows.h>
+	<Shellapi.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<typeinfo>
+	<map>
+	<vector>
+	<algorithm>
+	<functional>
+	<string>
+	<Windows.h>
+	<Shellapi.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<typeinfo>
+	<map>
+	<vector>
+	<algorithm>
+	<functional>
+	<string>
+
