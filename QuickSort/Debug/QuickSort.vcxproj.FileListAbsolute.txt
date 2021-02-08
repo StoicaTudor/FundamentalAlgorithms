@@ -1,0 +1,2 @@
+D:\info\c++\QuickSort\QuickSort\Debug\QuickSort.exe
+D:\info\c++\QuickSort\QuickSort\Debug\QuickSort.pdb
