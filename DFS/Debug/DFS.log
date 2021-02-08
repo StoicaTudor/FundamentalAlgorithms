@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\info\c++\DFS\main.cpp(318): warning C4091: 'static ': ignored on left of 'DFS::GraphType' when no variable is declared
+D:\info\c++\DFS\main.cpp(401,21): warning C4018: '<': signed/unsigned mismatch
+  DFS.vcxproj -> D:\info\c++\DFS\Debug\DFS.exe

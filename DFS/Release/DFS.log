@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\info\c++\DFS\main.cpp(350): warning C4091: 'static ': ignored on left of 'DFS::GraphType' when no variable is declared
+D:\info\c++\DFS\main.cpp(433,21): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  211 of 562 functions (37.5%) were compiled, the rest were copied from previous compilation.
+    102 functions were new in current compilation
+    65 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  DFS.vcxproj -> D:\info\c++\DFS\Release\DFS.exe
