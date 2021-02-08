@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\info\c++\Disjoint Sets\main.cpp(249): warning C4091: 'static ': ignored on left of 'DisjointSets::Edge' when no variable is declared
+D:\info\c++\Disjoint Sets\main.cpp(141,21): warning C4018: '<': signed/unsigned mismatch
+D:\info\c++\Disjoint Sets\main.cpp(292,21): warning C4018: '<': signed/unsigned mismatch
+D:\info\c++\Disjoint Sets\main.cpp(294,26): warning C4018: '<': signed/unsigned mismatch
+  Disjoint Sets.vcxproj -> D:\info\c++\Disjoint Sets\Debug\Disjoint Sets.exe

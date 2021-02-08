@@ -1,0 +1,2 @@
+D:\info\c++\Disjoint Sets\Debug\Disjoint Sets.exe
+D:\info\c++\Disjoint Sets\Debug\Disjoint Sets.pdb
